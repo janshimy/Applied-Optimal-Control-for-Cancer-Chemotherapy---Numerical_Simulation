@@ -26,7 +26,6 @@ function dydt=chemoode(t,y)
 global a b r delta N0 Nd
 
 %N=y(1) ; lambda=y(2)  % Correct here
-%THIS IS CORRECT!!!!..........................................
 dydt=[r*y(1).*log(1./y(1))-delta^2*y(1).^2.*y(2) -(2*a*(y(1)-Nd)+y(2)*(r*log(1./y(1))-r-delta^2*y(1).*y(2)/(2*b)))];
 
 
