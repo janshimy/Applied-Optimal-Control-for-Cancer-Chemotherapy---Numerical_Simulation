@@ -32,7 +32,7 @@ subplot(2,1,2);ylabel('Control u(t)');title('Optimal control u(t)');
 %===================================================================================
 % scenario 2
 
-% Here you need simple lines of code to run "chemo". Just define parameter
+% Here we need simple lines of code to run "chemo". Just define parameter
 % values, run chemo and make some plots with different initial state No.
 
 clear all
@@ -64,7 +64,7 @@ subplot(2,1,2);ylabel('Control');title('Optimal Control u(t)');
 %===================================================================================
 % scenario 3
 
-% Here you need simple lines of code to run "chemo". Just define parameter
+% Here we need simple lines of code to run "chemo". Just define parameter
 % values, run chemo and make some plots with different values of drug magnitude delta.
 
 clear all
@@ -98,7 +98,7 @@ subplot(2,1,2);ylabel('Control');title('Optimal Control u(t)');
 %===================================================================================
 % scenario 4
 
-% Here you need simple lines of code to run "chemo". Just define parameter
+% Here we need simple lines of code to run "chemo". Just define parameter
 % values, run chemo and make some plots with different growth rates.
 
 clear all
