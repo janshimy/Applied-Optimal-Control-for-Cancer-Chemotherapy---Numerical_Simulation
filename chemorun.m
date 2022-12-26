@@ -1,3 +1,7 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   OPTIMAL CONTROL APPLIED IN CANCER CHEMOTHERAPY   %%
+%%   By Janvier Nshimyumukiza, December 2020          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 close all
 clear all
 clc
