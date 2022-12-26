@@ -1,7 +1,7 @@
 % These matlab/octave codes implements the numerical simulations of
 % different scenarios that I have used in my undergraduate final year project
-% entitled "APPLIED OPTIMAL CONTROL FOR CANCER CHEMOTHERAPY"
-
+% entitled "OPTIMAL CONTROL APPLIED IN CANCER CHEMOTHERAPY"
+% Written by Janvier Nshimyumukiza, December 2020
 %===================================================================================
 % scenario 1
 
