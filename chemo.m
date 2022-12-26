@@ -1,3 +1,7 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%   OPTIMAL CONTROL APPLIED IN CANCER CHEMOTHERAPY   %%
+%%   By Janvier Nshimyumukiza, December 2020          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function m = chemo(p1,p2,p3,p4,p5,p6)
 global a b r delta N0 Nd
 
