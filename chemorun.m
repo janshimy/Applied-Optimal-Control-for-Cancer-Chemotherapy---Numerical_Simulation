@@ -266,3 +266,4 @@ if(var2==1)
         subplot(3,1,3);legend('First value','Second value',0)
     end
 end
+
