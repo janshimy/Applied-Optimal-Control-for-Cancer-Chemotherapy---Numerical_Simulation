@@ -1,5 +1,5 @@
 # Numerical_Simulation
-This MATLAB scripts implements the numerical simulation for dynamical systems control. 
+This MATLAB scripts implements the numerical simulation for dynamical systems - Optimal control Applied to cancer chemotherapy. 
 
 # Research objectives
 The main objective is to apply the optimal control to study and develop optimal
