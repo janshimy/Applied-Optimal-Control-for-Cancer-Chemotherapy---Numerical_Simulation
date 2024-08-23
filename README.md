@@ -1,4 +1,4 @@
-# Numerical_Simulation
+# Applied Optimal Control for Cancer Chemotherapy
 This MATLAB scripts implements the numerical simulation for dynamical systems - Optimal control Applied to cancer chemotherapy. 
 
 # Research objectives
